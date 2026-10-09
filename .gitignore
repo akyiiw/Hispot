@@ -1,0 +1,17 @@
+node_modules/
+.env
+*.env
+cache.json
+spotify_token.json
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# plan
+*.txt
+
+# start
+*.vbs
